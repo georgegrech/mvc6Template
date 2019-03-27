@@ -1,0 +1,12 @@
+C:\Repos\FirstWebApp\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Repos\FirstWebApp\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Repos\FirstWebApp\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Repos\FirstWebApp\Data\bin\Debug\netcoreapp2.2\Common.dll
+C:\Repos\FirstWebApp\Data\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Repos\FirstWebApp\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Repos\FirstWebApp\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Repos\FirstWebApp\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Repos\FirstWebApp\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Repos\FirstWebApp\Data\obj\Debug\netcoreapp2.2\Data.csproj.CopyComplete
+C:\Repos\FirstWebApp\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Repos\FirstWebApp\Data\obj\Debug\netcoreapp2.2\Data.pdb

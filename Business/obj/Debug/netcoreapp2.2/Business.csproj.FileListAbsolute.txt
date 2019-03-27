@@ -1,0 +1,14 @@
+C:\Repos\FirstWebApp\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Repos\FirstWebApp\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Repos\FirstWebApp\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Repos\FirstWebApp\Business\bin\Debug\netcoreapp2.2\Common.dll
+C:\Repos\FirstWebApp\Business\bin\Debug\netcoreapp2.2\Data.dll
+C:\Repos\FirstWebApp\Business\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Repos\FirstWebApp\Business\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Repos\FirstWebApp\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Repos\FirstWebApp\Business\obj\Debug\netcoreapp2.2\Business.csproj.CoreCompileInputs.cache
+C:\Repos\FirstWebApp\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Repos\FirstWebApp\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Repos\FirstWebApp\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
+C:\Repos\FirstWebApp\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Repos\FirstWebApp\Business\obj\Debug\netcoreapp2.2\Business.pdb
